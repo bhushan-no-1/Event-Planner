@@ -1,4 +1,4 @@
 # bhushan-demo
-his is my project git repository
+project git repository
 <br>
 Author - bhushan
